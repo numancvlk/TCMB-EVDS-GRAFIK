@@ -70,3 +70,6 @@ Grafikler: Gerçek ve tahmin edilen değerler arasındaki ilişki, BIST 100 Ende
 
 ## İletişim
 Herhangi bir soru ya da öneriniz olursa, lütfen iletişime geçin.
+
+### Bu proje, sadece portföy amacıyla ve ticari bir amaç gütmeden paylaşılmaktadır.
+### This project is shared solely for portfolio purposes and without any commercial intent.
